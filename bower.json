@@ -1,0 +1,27 @@
+{
+  "name": "backbonePractise",
+  "authors": [
+    "Lynnic"
+  ],
+  "description": "This is a demo to practise  how to implement a todo using Backbone.js",
+  "main": "main.js",
+  "moduleType": [],
+  "keywords": [
+    "backbone",
+    "frontend",
+    "MV*"
+  ],
+  "license": "1.0.0",
+  "homepage": "alohalynnic.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.3.2",
+    "jquery": "~2.2.2"
+  }
+}
